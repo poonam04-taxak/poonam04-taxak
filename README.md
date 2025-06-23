@@ -64,6 +64,12 @@ Open any .java file in your IDE (e.g., VS Code or IntelliJ).
 - 💻 Practicing on HackerRank daily
 - 🌟 Preparing for SDE interviews
 
+  ## 🛠 GitHub Stats
+
+![Poonam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poonam04-taxak&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam04-taxak&layout=compact&theme=tokyonight)
+
+---
 
 Run using:
 javac FileName.java
@@ -73,6 +79,23 @@ I’m a final-year BCA student from Ramadevi Mahila P.G. College, Jhunjhunu, foc
 🔗 LinkedIn
 🔗 LeetCode
 📧 poonamtaxak04@gmail.com
+
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/poonam-taxak-b69822366)
+- 🧠 [LeetCode](https://leetcode.com/poonam_taxak/)
+- 💻 [GitHub](https://github.com/poonam04-taxak)
+- 📧 Email: poonamtaxak04@gmail.com
+- 📱 Phone: +91-8949489980
+
+---
+
+## 🚀 Current Focus
+
+- 📘 Solved 60+ DSA problems on LeetCode  
+- 🧠 Strengthening Java concepts and problem-solving  
+- 🎯 Looking for internship or entry-level software developer role  
 
 ⭐ Contributions Welcome
 Feel free to fork and suggest imp rovements. I’m always open to learning better ways to solve problems.
