@@ -42,6 +42,7 @@ Java-DSA-Practice/
 ├── DP/
 ├── SortingSearching/
 └── README.md
+
 🛠 Technologies Used
 💻 Java (JDK 17)
 
@@ -57,6 +58,13 @@ Clone the repository:
 git clone https://github.com/poonam04-taxak/Java-DSA-Practice.git
 Open any .java file in your IDE (e.g., VS Code or IntelliJ).
 
+## 🚀 Ongoing Practice
+
+- 🔥 60+ LeetCode problems solved
+- 💻 Practicing on HackerRank daily
+- 🌟 Preparing for SDE interviews
+
+
 Run using:
 javac FileName.java
 java FileName
@@ -68,4 +76,49 @@ I’m a final-year BCA student from Ramadevi Mahila P.G. College, Jhunjhunu, foc
 
 ⭐ Contributions Welcome
 Feel free to fork and suggest imp rovements. I’m always open to learning better ways to solve problems.
+*Thanks for visiting! Keep learning, keep coding ✨*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
