@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Poonam Taxak
 
-🎓 Final-year BCA student at Ramadevi Mahila P.G. College, Jhunjhunu  
-💻 Passionate about Java and Data Structures & Algorithms  
-🌱 Currently solving DSA problems on [LeetCode](https://leetcode.com/poonam_taxak) and [HackerRank](https://www.hackerrank.com/poonamtaxak04)
+🎓 Final-year BCA student at **Ramadevi Mahila P.G. College, Jhunjhunu**  
+💻 Passionate about **Java** and **Data Structures & Algorithms**  
+🌱 Actively solving DSA problems on [LeetCode](https://leetcode.com/poonam_taxak) and [HackerRank](https://www.hackerrank.com/poonamtaxak04)
 
 ---
 
 ## 💡 What I'm Learning
 
 - Java (OOP, Collections, Exception Handling)  
-- Data Structures: Arrays, Linked Lists, Trees, Recursion, Backtracking, DP  
-- SQL & Computer Networks fundamentals
+- DSA Topics: Arrays, Linked Lists, Trees, Recursion, Backtracking, Dynamic Programming  
+- SQL and Computer Networks fundamentals  
 
 ---
 
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/poonam-taxak-b69822366)  
-- 🧠 [LeetCode](https://leetcode.com/poonam_taxak/)  
+- 🧠 [LeetCode](https://leetcode.com/poonam_taxak)  
 - 💻 [GitHub](https://github.com/poonam04-taxak)  
-- 📧 poonamtaxak04@gmail.com  
-- 📱 +91-8949489980
+- 📧 Email: poonamtaxak04@gmail.com  
+- 📱 Phone: +91-8949489980  
 
 ---
 
@@ -39,10 +39,10 @@
 
 ## 🚀 Current Focus
 
-- Solving 70+ DSA problems on LeetCode  
-- Strengthening Java and algorithm skills  
-- Seeking software development internships or entry-level roles
+- ✅ Solved 70+ DSA problems on LeetCode  
+- 🧠 Strengthening Java and problem-solving skills  
+- 🎯 Preparing for internship and entry-level software development roles  
 
 ---
 
-*Thanks for visiting — let’s code and grow together! ✨*
+> ✨ Thanks for visiting! Let’s connect, code, and grow together. ✨
