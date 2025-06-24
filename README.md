@@ -70,6 +70,9 @@ Open any .java file in your IDE (e.g., VS Code or IntelliJ).
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam04-taxak&layout=compact&theme=tokyonight)
 
 ---
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/poonam_taxak?theme=dark&font=baloo)
 
 Run using:
 javac FileName.java
