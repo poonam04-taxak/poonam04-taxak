@@ -44,5 +44,6 @@
 - 🎯 Preparing for internship and entry-level software development roles  
 
 ---
+![Visitor Badge](https://komarev.com/ghpvc/?username=poonam04-taxak&label=Profile%20Views&color=0e75b6&style=flat)
 
 > ✨ Thanks for visiting! Let’s connect, code, and grow together. ✨
