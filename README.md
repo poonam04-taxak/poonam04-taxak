@@ -16,6 +16,15 @@
 
 ---
 
+### 🛠️ Tech Stack
+- **Languages:** Java, SQL
+- **DSA:** LeetCode, HackerRank (100+ problems)
+- **Tools:** Git, GitHub, VS Code, IntelliJ
+- **Learning:** Spring Boot (basics), Computer Networks, DBMS
+
+ ---- 
+
+
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/poonam-taxak-b69822366)  
