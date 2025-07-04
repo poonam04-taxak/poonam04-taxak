@@ -1,11 +1,12 @@
 ![Poonam's Banner](https://raw.githubusercontent.com/poonam04-taxak/poonam04-taxak/main/github.png)
 ## 📊 GitHub & LeetCode Stats
 
+## 📊 GitHub & LeetCode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/poonam_taxak?theme=dark&font=Roboto&ext=activity)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poonam04-taxak&show_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam04-taxak&layout=compact&theme=tokyonight)  ![Visitor Count](https://komarev.com/ghpvc/?username=poonam04-taxak&color=blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam04-taxak&layout=compact&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=poonam04-taxak&color=blue)
 
 
 
