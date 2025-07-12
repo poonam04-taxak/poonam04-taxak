@@ -4,7 +4,7 @@
 
 
 
-# 👋 Hi, I'm Poonam Taxak
+👋 Hi, I'm Poonam Taxak, a Java & DSA Enthusiast, passionate about problem-solving and backend development.
 
 🎓 Final-year BCA student at **Ramadevi Mahila P.G. College, Jhunjhunu**  
 💻 Passionate about **Java** and **Data Structures & Algorithms**  
@@ -30,9 +30,9 @@
 
  ## 📊 GitHub & LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/poonam_taxak?theme=dark&font=Roboto&ext=activity)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poonam04-taxak&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam04-taxak&layout=compact&theme=tokyonight)
+![LeetCode](https://img.shields.io/badge/DSA-LeetCode-orange)
+![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam04-taxak&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam04-taxak&layout=compact&theme=tokyonight)
 
 
 
@@ -48,11 +48,11 @@
 
 
 
-## 🚀 Current Focus
-
-- ✅ Solved 150+ DSA problems on LeetCode  
-- 🧠 Strengthening Java and problem-solving skills  
-- 🎯 Preparing for internship and entry-level software development roles  
+🎯 Goals
+- Master 200+ DSA problems on LeetCode for interview readiness
+- Build 2-3 Java-based mini projects (Spring Boot, OOP)
+- Contribute to open-source beginner-friendly repositories
+- Secure a Java Developer or Software Engineer internship in 2025
 
 ---
 
