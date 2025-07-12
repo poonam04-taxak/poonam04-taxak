@@ -50,7 +50,7 @@
 
 ## 🚀 Current Focus
 
-- ✅ Solved 90+ DSA problems on LeetCode  
+- ✅ Solved 150+ DSA problems on LeetCode  
 - 🧠 Strengthening Java and problem-solving skills  
 - 🎯 Preparing for internship and entry-level software development roles  
 
