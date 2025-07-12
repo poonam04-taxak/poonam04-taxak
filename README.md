@@ -1,4 +1,4 @@
-![Poonam's Banner](https://raw.githubusercontent.com/poonam04-taxak/poonam04-taxak/main/github.png)
+![Poonam's Banner](https://raw.githubusercontent.com/poonam04-taxak/poonam04-taxak/main/github_banner.png)
 
 
 
