@@ -28,7 +28,7 @@
 
  ## 📊 GitHub & LeetCode Stats
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_solved-orange)](https://leetcode.com/poonam_taxak/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_solved-orange)](https://leetcode.com/poonam_taxak/)
 ![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam04-taxak&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poonam04-taxak&layout=compact&theme=tokyonight)
 
