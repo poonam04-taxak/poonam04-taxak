@@ -4,28 +4,26 @@
 
 
 
-👋 Hi, I'm Poonam Taxak, a Java & DSA Enthusiast, passionate about problem-solving and backend development.
+👋 Hi, I'm Poonam Taxak, a Java & MuleSoft Developer Enthusiast 🚀
 
-🎓 Final-year BCA student at **Ramadevi Mahila P.G. College, Jhunjhunu**  
-💻 Passionate about **Java** and **Data Structures & Algorithms**  
-🌱 Actively solving DSA problems on [LeetCode](https://leetcode.com/poonam_taxak) and [HackerRank](https://www.hackerrank.com/poonamtaxak04)
-
+🎓 BCA Graduate | Integration & API-led Connectivity Learner  
+💻 Passionate about Java, Data Structures & MuleSoft Development  
+🌱 Actively learning Anypoint Platform, API Design (RAML), DataWeave, and Integration Patterns
 ---
 
-## 💡 What I'm Learning
-
-- Java (OOP, Collections, Exception Handling)  
-- DSA Topics: Arrays, Linked Lists, Trees, Recursion, Backtracking, Dynamic Programming  
-- SQL and Computer Networks fundamentals  
-
+💡 What I'm Learning
+- Java (OOP, Collections, Exception Handling)
+- Data Structures & Algorithms (LeetCode + HackerRank)
+- MuleSoft Anypoint Platform (API-led connectivity, RAML, DataWeave, Connectors, Error Handling)
+- Integration Patterns & Event-Driven Architecture
+- SQL, DBMS, and Computer Networks fundamentals
 ---
-
-### 🛠️ Tech Stack
-- **Languages:** Java, SQL
-- **DSA:** LeetCode, HackerRank (100+ problems)
-- **Tools:** Git, GitHub, VS Code, IntelliJ
-- **Learning:** Spring Boot (basics), Computer Networks, DBMS
-
+🛠️ Tech Stack
+- Languages: Java, SQL, DataWeave
+- DSA Practice: LeetCode (100+ problems), HackerRank
+- Tools: Git, GitHub, VS Code, IntelliJ, Postman
+- MuleSoft: Anypoint Studio, API Designer, RAML, APIKit, Flow & Error Handling, Connectors
+- Learning: Spring Boot (basics), Cloud Integrations
  ---- 
 
  ## 📊 GitHub & LeetCode Stats
@@ -43,16 +41,14 @@
 - 💻 [GitHub](https://github.com/poonam04-taxak)  
 - 📧 Email: poonamtaxak04@gmail.com  
 - 📱 Phone: +91-8949489980  
-
+👉 "Open to MuleSoft Developer roles & internships."
 ---
 
-
-
 🎯 Goals
-- Master 200+ DSA problems on LeetCode for interview readiness
-- Build 2-3 Java-based mini projects (Spring Boot, OOP)
-- Contribute to open-source beginner-friendly repositories
-- Secure a Java Developer or Software Engineer internship in 2025
+- Become a certified MuleSoft Developer (DEX401)
+- Build real-world APIs & integration flows using MuleSoft
+- Master 200+ DSA problems for interview readiness
+- Secure a MuleSoft Developer role in 2025
 
 ---
 
