@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(2).png" alt="Poonam Taxak" width="350" style="border-radius: 50%;" />
+  <img src="Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(2).png" alt="Poonam Taxak" width="500" style="border-radius: 80%;" />
 </p>
 
 
