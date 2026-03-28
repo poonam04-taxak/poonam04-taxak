@@ -3,8 +3,8 @@
 </p>
 
 Poonam Taxak
-
 Java Backend Developer
+
 Java | Spring Boot | REST APIs | MySQL | Redis | AWS (Basics)
 
 👋 Hi, I'm Poonam
