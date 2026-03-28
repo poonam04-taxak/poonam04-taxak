@@ -1,3 +1,4 @@
+Black & White Modern Minimalist Data Analyst LinkedIn Banner (2).png
 👋 Hi, I'm Poonam Taxak  
 Java Backend Developer | Spring Boot | REST APIs | MySQL | Redis  
 
